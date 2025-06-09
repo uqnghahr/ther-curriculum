@@ -12,7 +12,7 @@
     - name: Arrhythmias, atrial
       subjects:
       - PHRM2102
-      - PHRM3102
+      - PHRM3102 
     
     - name: Chronic coronary disease (formerly stable ischemic heart disease)
       subjects:
@@ -31,22 +31,91 @@
       - Evaluate cardiac risks including interpreting lab test
       - Idenitfy MOA, adverse effect and outcome evidence for statins, ezitemide
 
-    - name: Heart failure, chronic
+    - name: Heart failure, chronic (why is acute separate?) I have written goals as one but James we can separate out if you like.
       subjects:
       - PHRM2102
+      Describe the pathophysiology and classification of heart failure, including distinctions between HFrEF, HFmrEF, and HFpEF.
+Identify common signs and symptoms of heart failure and explain their clinical significance in diagnosis and monitoring.
+Explain the pharmacological and non-pharmacological therapeutic goals in the management of heart failure, including:
+Reducing morbidity and mortality
+Improving quality of life and functional status
+Minimizing hospitalizations and disease progression
+Demonstrate knowledge of guideline-directed medical therapy (GDMT) for heart failure, including:
+ACE inhibitors/ARBs/ARNIs
+Beta-blockers
+Mineralocorticoid receptor antagonists (MRAs)
+SGLT2 inhibitors
+
       - PHRM4101
       - PHRM3102
+            Describe the pathophysiology and classification of heart failure, including distinctions between HFrEF, HFmrEF, and HFpEF.
+Identify common signs and symptoms of heart failure and explain their clinical significance in diagnosis and monitoring.
+Explain the pharmacological and non-pharmacological therapeutic goals in the management of heart failure, including:
+Reducing morbidity and mortality
+Improving quality of life and functional status
+Minimizing hospitalizations and disease progression
+Demonstrate knowledge of guideline-directed medical therapy (GDMT) for heart failure, including:
+ACE inhibitors/ARBs/ARNIs
+Beta-blockers
+Mineralocorticoid receptor antagonists (MRAs)
+SGLT2 inhibitors
+Diuretics and other adjunctive therapies
+Evaluate patient-specific factors (e.g., renal function, comorbidities, adherence) that influence therapeutic decision-making in heart failure.
+Apply evidence-based guidelines to develop and adjust individualized pharmacotherapy plans for patients with heart failure.
     
     - name: Hypertension
       subjects:
       - PHRM2102
+      Explain the pathophysiology and classification of hypertension, including primary and secondary hypertension, and the significance of systolic vs. diastolic blood pressure.
+Interpret blood pressure readings using current diagnostic thresholds (e.g., ≥130/80 mmHg per ACC/AHA guidelines) and understand the implications for cardiovascular risk.
+Describe the therapeutic goals of hypertension management, including:
+Reducing the risk of cardiovascular events (e.g., stroke, myocardial infarction)
+Preventing or slowing progression of target organ damage (e.g., kidney, heart, brain)
+Achieving and maintaining individualized blood pressure targets
+Identify first-line and adjunctive pharmacological therapies for hypertension, including:
+ACE inhibitors, ARBs, calcium channel blockers, thiazide diuretics
+Beta-blockers, aldosterone antagonists, and other agents for specific indications
+
+      
       - PHRM4101
+      
       - PHRM3102
+      Apply evidence-based guidelines (e.g., ACC/AHA, ISH, Australian guidelines) to develop individualized treatment plans for patients with hypertension. 
+      Adjust medication management of hypertension for specific cohorts including treatment of hypertension in elderly and frail individuals.
+Evaluate patient-specific factors (e.g., age, comorbidities, ethnicity, lifestyle) that influence antihypertensive therapy selection and monitoring.
+Demonstrate understanding of non-pharmacological interventions, such as dietary modifications, physical activity, weight loss, and sodium restriction.
+Monitor therapeutic outcomes and adverse effects, and adjust therapy accordingly to optimize blood pressure control and minimize harm.
+Recognize the pharmacist’s role in hypertension screening, patient education, medication adherence, and interprofessional care.
     
     - name: Venous thromboembolism, prevention, and treatment
       subjects:
       - PHRM2102
+Describe the pathophysiology and risk factors for venous thromboembolism, including deep vein thrombosis (DVT) and pulmonary embolism (PE).
+Classify VTE based on clinical presentation and risk stratification, including provoked vs. unprovoked events and transient vs. persistent risk factors.
+Explain the therapeutic goals in VTE management, including:
+Preventing thrombus extension and embolization
+Reducing recurrence risk
+Minimizing bleeding complications
+Improving patient outcomes and quality of life
+Identify pharmacological agents used in VTE prevention and treatment, including:
+Unfractionated heparin (UFH)
+Low-molecular-weight heparins (LMWHs)
+Direct oral anticoagulants (DOACs)
+Vitamin K antagonists (e.g., warfarin)
+      
       - PHRM3102
+Apply evidence-based guidelines to develop individualized VTE prevention and treatment plans for:
+Hospitalized medical and surgical patients
+Patients with cancer-associated thrombosis ---> Teir 3?
+Patients with renal impairment or obesity ---> this is not Teir one or two - probs more 3 
+Evaluate the appropriate duration of anticoagulation therapy based on patient-specific factors and VTE classification (e.g., 3 months vs. extended therapy).
+Recognize the pharmacist’s role in:
+VTE risk assessment and prophylaxis planning
+Patient education on anticoagulant use and adherence
+Monitoring for efficacy and adverse effects
+Managing perioperative anticoagulation and bridging strategies
+Interpret laboratory and clinical data to assess anticoagulant therapy effectiveness and safety, including INR, aPTT, anti-Xa levels, and signs of bleeding or recurrence. Teir 3?
+
   
   - tier: 2
     conditions:
